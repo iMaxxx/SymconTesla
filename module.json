@@ -1,0 +1,14 @@
+{
+	"id": "{bc494187-b45f-4bb5-8c1b-eaf4750eb8a3}",
+	"name": "SymconTesla",
+	"type": 0,
+	"vendor": "iMaxxx",
+	"aliases": 
+	[
+		"Tesla Module"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "TSLA"
+}
