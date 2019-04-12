@@ -1,0 +1,12 @@
+{
+	"elements":
+	[
+		{ "name": "Token", "type": "ValidationTextBox", "caption": "Token" }
+		{ "name": "User", "type": "ValidationTextBox", "caption": "Loginname" }
+		{ "name": "Password", "type": "PasswordTextBox", "caption": "Passwort" }
+	],
+	"actions":
+	[
+		{ "type": "Button", "label": "Register", "onClick": "echo TSLA_Register($id);" }
+	]
+}
